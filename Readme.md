@@ -1,7 +1,7 @@
 # Project for the course in OSE Data Science | Summer 2021 | M.Sc. Economics | Bonn University | Mehmet Emir Kavukcu
 
 
-![ci](https://github.com/OpenSourceEconomics/ose-data-science-course-project-MehmetEmirKavukcu/actions/workflows/ci.yml/badge.svg)
+
 
 
 Imai, Masami, and Seitaro Takarabe. 2011. ["Bank Integration and Transmission of Financial Shocks: Evidence from Japan." American Economic Journal: Macroeconomics, 3 (1): 155-83. ](https://www.aeaweb.org/articles?id=10.1257/mac.3.1.155)
@@ -35,15 +35,3 @@ The aim of the following paper is to explore whether and to what extent the bank
 * 5\. Conclusion 
 * 6\. References  
 
-## Accessing the project 
-
-Main Project notebook can be reached following the badges below.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenSourceEconomics/ose-data-science-course-project-MehmetEmirKavukcu/a6f636da4a3f9858f95ced83d90a0e4338f025d7?filepath=Project_main_R.ipynb)
-
-<a href="https://nbviewer.jupyter.org/github/OpenSourceEconomics/ose-data-science-course-project-MehmetEmirKavukcu/blob/master/Project_main_R.ipynb"
-   target="_parent">
-   <img align="center"
-  src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
-      width="109" height="20">
-</a>
