@@ -1,0 +1,20 @@
+name: student_project
+
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- scipy
+- r-base
+- r-tidyverse
+- r-irkernel
+- r-haven
+- r-plm
+- r-lmtest
+- r-sandwich
+- r-stargazer
+- r-ggplot2
+- r-aer
+- pip
+- pip:
+
